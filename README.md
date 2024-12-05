@@ -1,7 +1,5 @@
 # primeros-pasos-con-docker
 
-Este proyecto demuestra cómo crear y ejecutar una imagen Docker que ejecuta código Python.
-
 ## Creación carpeta primeros_pasos_docker
 
 - Dockerfile
